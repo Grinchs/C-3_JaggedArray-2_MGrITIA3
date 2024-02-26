@@ -83,7 +83,7 @@ namespace C_3_JaggedArray_2_MGrITIA3
 
             foreach (int num in x)
             {
-                // Pieskaita kolonnas pie summas, jo 
+                // Pieskaita kolonnas pie summas, jo vajag
                 sum += num;
             }
 
